@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - BoxAtr
+  - Collect
+  - Ledge
+  - BoxHurt
+  - Candado
+  - Gravitor
+  - BoxBre
+  - MenuOption
+  - MenuSelector
+  - MenuMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bckg
+    uniqueID: 26425791
+    locked: 0
+  - name: Objects
+    uniqueID: 2574957335
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
